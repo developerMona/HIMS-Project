@@ -1,0 +1,1 @@
+Today i going to setup and configure the softwares and version control for the HIMS project
